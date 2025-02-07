@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+    int main() {
     float basicPay, HRA, TA, grossSalary, professionalTax, netSalary;
 
     // Input for basic pay
